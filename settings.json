@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SkyPixel-qPnm.aternos.me",
+    "ip": "SkyPixel-qPnm.aternos.me:61794",
     "port": 61794,
     "version": "1.21.1"
   },
